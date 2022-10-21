@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Lambda Expression&apos;&#x0D;&#x0A;- Original project: &apos;Lambda Expression&apos;&#x0D;&#x0A;- Original element: &apos;Lambda Expression/src/all.about.java8&apos;" description="Delete element" element1="/src&lt;all.about.java8" element2="/src&lt;all.about" element3="/src&lt;all" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1666370664896" subPackages="false" version="1.0"/>
+</session>
