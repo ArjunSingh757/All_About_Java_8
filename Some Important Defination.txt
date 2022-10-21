@@ -1,0 +1,41 @@
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png
+        Some Important Defination.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+DELL@DESKTOP-HFC4K3B MINGW64 /d/Java_8_Version (master)
+$ git add .
+
+DELL@DESKTOP-HFC4K3B MINGW64 /d/Java_8_Version (master)
+$ git commit -m "Added Somme Important Defination"
+[master 3f97562] Added Somme Important Defination
+ 3 files changed, 1452 insertions(+), 1452 deletions(-)
+ create mode 100644 .metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png
+ create mode 100644 Some Important Defination.txt
+
+DELL@DESKTOP-HFC4K3B MINGW64 /d/Java_8_Version (master)
+$ git push origin master
+Enumerating objects: 16, done.
+Counting objects: 100% (16/16), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (9/9), 17.17 KiB | 764.00 KiB/s, done.
+Total 9 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To github.com:ArjunSingh757/All_About_Java_8.git
+   d817b7a..3f97562  master -> master
+
+DELL@DESKTOP-HFC4K3B MINGW64 /d/Java_8_Version (master)
+$ ^C
+
+DELL@DESKTOP-HFC4K3B MINGW64 /d/Java_8_Version (master)
+$
